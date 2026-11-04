@@ -18,6 +18,12 @@
       "description": "Talk like caveman. Cut filler. Keep technical details explicit.",
       "source": "./caveman-main",
       "category": "productivity"
+    },
+    {
+      "name": "threejs-skills",
+      "description": "Three.js skills: fundamentals, geometry, materials, lighting, shaders, animation, loaders, postprocessing, React Three Fiber.",
+      "source": "./threejs-skills-main",
+      "category": "development"
     }
   ]
 }
