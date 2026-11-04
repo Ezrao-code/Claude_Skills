@@ -22,7 +22,7 @@
     {
       "name": "threejs-skills",
       "description": "Three.js skills: fundamentals, geometry, materials, lighting, shaders, animation, loaders, postprocessing, React Three Fiber.",
-      "source": "./threejs-skills",
+      "source": "./threejs-skills-main",
       "category": "development"
     }
   ]
